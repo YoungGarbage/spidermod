@@ -28,3 +28,7 @@ Some of the code is pasted and proper credits are not given, but atleast it's op
 There is no git history because it contains personal info.
 
 Created by `ionar2` and many [others](https://github.com/ionar2/salhack/graphs/contributors). If you have any legal disagreements, please read [this](https://help.github.com/en/github/site-policy/guide-to-submitting-a-dmca-takedown-notice)
+
+
+
+DON'T USE IT, IT DOESN'T EVEN WORK, I DON'T KNOW HOW FORGE WORKS
